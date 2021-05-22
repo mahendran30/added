@@ -107,7 +107,7 @@ transform : rotate(45deg) ;
     display: block;
     position: absolute;
     top: 50%;
-    left: 70%;
+    left: 10%;
     width: 3em;
     height: 3em;
     border-radius: 30%;
